@@ -11,8 +11,8 @@ frind_age = [
     ["Kumar",2],
     ["Ram",3]
     ]
-print("print complete list",frind_age[1])
-print("List with specific value :",frind_age[3][0])
+print("print complete list",frind_age[1]) # printing entire block
+print("List with specific value :",frind_age[3][0]) # printing specific value in the block
 print(frind_age)
-frind_age.remove(["Ram",3])
+frind_age.remove(["Ram",3]) # we can able remove one friend from the lsit
 print(frind_age)
