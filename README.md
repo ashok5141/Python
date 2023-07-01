@@ -1,1 +1,1 @@
-The Complete Pyhton Course | Learn Python by DOing in 2023
+The Complete Pyhton Course | Learn Python by Doing in 2023
