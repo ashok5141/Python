@@ -1,4 +1,4 @@
-'''
+''' https://blog.teclado.com/interview-coding-problems-fizzbuzz/
 print 1 to 100 (including 100)
 But instead of printing multiples of 3, print fizz
 Instead of printing multiples 5, print buzz
