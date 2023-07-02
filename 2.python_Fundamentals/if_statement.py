@@ -1,8 +1,8 @@
 friend = "Ashok"
 user_name = input("Enter your name: ")
 print(bool(user_name)) # if user not enter any thing it print false.
-if user_name == friend:
-    print("Hello, friend!")
+if user_name == friend: # if statement must ends with colen
+    print("Hello, friend!") # indentation is important in python 4 spaces or 1 tab space is mandatory in python, BEGINNERS MAKES MISTAKES IN PYTHON
 else:
     print("Bye, Starnger!")
 
