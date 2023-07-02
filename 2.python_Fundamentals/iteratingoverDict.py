@@ -14,6 +14,6 @@ friends = {"Ashok":27,"Bob":17,"Anne":7,"Kumar":0}
 for name in friends:
     print(f"{name} is {age} years old !")
 
-friends = {"Ashok":27,"Bob":17,"Anne":7,"Kumar":0}
+'''friends = {"Ashok":27,"Bob":17,"Anne":7,"Kumar":0}
 for name, age in friends.items():
-    print(f"{name} is {age} years old !")
+    print(f"{name} is {age} years old !") '''
